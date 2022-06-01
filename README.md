@@ -2,4 +2,4 @@
 Developer Website for William Harrison
 
 ## Credits
-[github/personal-website](https://github.com/github/personal-website)
+[GitHub/personal-website](https://github.com/github/personal-website)
